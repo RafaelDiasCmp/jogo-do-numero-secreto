@@ -4,7 +4,7 @@ Este é um jogo interativo de lógica onde o jogador tenta adivinhar um número 
 
 
 
-<img src="JS-Game-01-16-2025_03_41_PM.png" alt="Tela Inicial do Jogo" width="800">
+<img src="Tela Inicial" alt="Tela Inicial do Jogo" width="800">
 
 
 ## 📝 Descrição do Projeto
