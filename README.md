@@ -2,7 +2,10 @@
 
 Este é um jogo interativo de lógica onde o jogador tenta adivinhar um número secreto gerado aleatoriamente. O jogo utiliza JavaScript para a lógica e a biblioteca `responsiveVoice.js` para narrar mensagens em voz alta, proporcionando uma experiência divertida e educativa.
 
----
+
+
+<img src="JS-Game-01-16-2025_03_41_PM.png" alt="Tela Inicial do Jogo" width="800">
+
 
 ## 📝 Descrição do Projeto
 
