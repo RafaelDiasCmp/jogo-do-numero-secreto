@@ -36,19 +36,24 @@ O objetivo é adivinhar o número secreto em um intervalo de 1 a 10. O jogador r
 
 ## 📂 Estrutura do Projeto
 
-├── index.html         # Estrutura básica da aplicação
-├── style.css          # Estilo da interface (opcional)
-├── script.js          # Código JavaScript principal
+Abaixo está a organização dos arquivos e pastas do projeto:
+
+```plaintext
+├── index.html         # Estrutura HTML principal da aplicação
+├── style.css          # Arquivo de estilos para a interface (opcional)
+├── script.js          # Lógica principal do jogo em JavaScript
 ├── responsiveVoice.js # Biblioteca para síntese de voz
-└── imagens/           # Pasta com imagens do projeto
+└── imagens/           # Pasta contendo as imagens do projeto
+    ├── tela-inicial.png # Exemplo da tela inicial do jogo
+    ├── feedback.png     # Exemplo de feedback ao jogador
+```
 
 ## 📚 Conceitos Aplicados
 
--- **Eventos de Entrada**: Captura e validação do número digitado pelo jogador.
--- **Funções Modulares**: Código organizado e reutilizável.
--- **Recursividade**: Garantia de números aleatórios únicos.
--- **Integração com Biblioteca Externa**: Uso de responsiveVoice para síntese de voz.
+- **Eventos de Entrada**: Captura e validação do número digitado pelo jogador.
+- **Funções Modulares**: Código organizado e reutilizável.
+- **Recursividade**: Garantia de números aleatórios únicos.
+- **Integração com Biblioteca Externa**: Uso de `responsiveVoice` para síntese de voz.
 
-## 🖼️ Imagens do Projeto
 
 
